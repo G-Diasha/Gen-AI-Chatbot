@@ -48,8 +48,11 @@ _if "chat_history" not in st.session_state:
 **▶️ Running the Project**
 
 _git clone https://github.com/g-diasha/genai-chatbot.git
+
 cd genai-chatbot
+
 pip install -r requirements.txt
+
 streamlit run app.py_
 
 **🔐 Environment Variables**

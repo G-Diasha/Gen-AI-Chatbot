@@ -47,19 +47,19 @@ _if "chat_history" not in st.session_state:
 
 **▶️ Running the Project**
 
-_git clone https://github.com/g-diasha/genai-chatbot.git
+_git clone https://github.com/g-diasha/genai-chatbot.git_
 
-cd genai-chatbot
+_cd genai-chatbot_
 
-pip install -r requirements.txt
+_pip install -r requirements.txt_
 
-streamlit run app.py_
+_streamlit run app.py_
 
 **🔐 Environment Variables**
 A .env file is created to protect the GROQ API KEY. 
 
-_GROQ_API_KEY=my_api_key_here
-_
+_GROQ_API_KEY=my_api_key_here_
+
 
 
 

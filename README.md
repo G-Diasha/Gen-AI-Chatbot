@@ -1,4 +1,4 @@
-**🤖 GenAI Chatbot**
+# 🤖 GenAI Chatbot
 
 A **Generative AI** chatbot built with **LangChain + Python**, deployed using **Streamlit**, and powered by the** GROQ LLM **for ultra-fast inference.
 This project demonstrates how to build a stateful conversational AI system with memory, role-based messages, and persistent chat history. 
